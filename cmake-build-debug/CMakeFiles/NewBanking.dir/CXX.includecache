@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Noah/CLionProjects/NewBanking/Banking.h
+string
+-
+
+C:/Users/Noah/CLionProjects/NewBanking/main.cpp
+iostream
+-
+Banking.h
+C:/Users/Noah/CLionProjects/NewBanking/Banking.h
+conio.h
+-
+
