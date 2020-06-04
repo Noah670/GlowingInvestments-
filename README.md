@@ -1,5 +1,6 @@
 # Glowing Investments
 Glowing Investments allows you to predict future profits and interest based on your own finances.
+Calculate your future investments and finances including interest and monthly payment options. 
 
 # How to Build
 - Use your favourite C++ compiler to build Glowing Investments
